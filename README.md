@@ -13,14 +13,14 @@ The Random Password Generator with Tkinter is a simple application that allows u
 
 <h1>Usage</h1>
 The Tkinter application window will open.
-<ol><li>
-Enter the password length in the entry widget.<br>
+<ol>
+<li>Enter the password length in the entry widget.</li>
 
-Click the "Generate Password" button to create a random password.<br>
+<li>Click the "Generate Password" button to create a random password.</li>
 
-If you want to generate a new password, click the "Reset" button to clear the current password and generate a new one.<br>
+<li>If you want to generate a new password, click the "Reset" button to clear the current password and generate a new one.</li>
 
-Copy the generated password and use it for your desired accounts.<br>
-</ol></li>
+<li>Copy the generated password and use it for your desired accounts.</li>
+</ol>
 <h1>Contributing</h1>
 If you have suggestions, find bugs, or want to contribute to the project, please create an issue or submit a pull request.
